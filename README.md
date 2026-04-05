@@ -78,20 +78,24 @@ public class Pattern {
 🚀 How to Run
 Clone the repository:
 git clone https://github.com/Abhijeeth0010/Pattern-Programs-using-Java.git
+
 Open in IDE:
 IntelliJ IDEA / Eclipse / VS Code
+
 Navigate to:
 src/com/java/patterns
+
 Run any Java file:
 javac FileName.java
 java FileName
+
 🎯 Who Is This For?
 Beginners learning Java
 Students preparing for interviews
 Anyone struggling with loops & logic
 Developers revising fundamentals
-📈 What You Will Learn
 
+📈 What You Will Learn
 ✔ How nested loops work
 ✔ How to approach pattern problems
 ✔ How to convert logic into code
